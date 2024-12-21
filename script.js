@@ -7,7 +7,7 @@ const quizData = [
     {
         question: "What is the chemical symbol for gold?",
         options: ["Ag", "Fe", "Au", "Cu"],
-        correct: 2
+        correct: 2 
     },
     {
         question: "Who developed the theory of relativity?",
